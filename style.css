@@ -1,0 +1,94 @@
+.tim{
+    border-radius: 50%;
+    border: #D4D4D4 3px solid;
+    margin-top:2em;
+    height: 10em;
+    width: 10em;
+}
+
+
+h1{
+    color: #DD5555;
+}
+h2{
+    text-align: center;
+    
+}
+h4{
+    text-align: center;
+}
+#wiki{
+    text-decoration: none;
+    background-color: #DD5555;
+    color: #FFFFFF;
+    border-radius: 0.3em;
+    padding: 0.7em;
+}
+
+header{
+    padding-bottom: 0.1em;
+}
+
+mark{
+    background-color: #D4D4D4;
+    color: #7D7D7D;
+}
+
+header{
+    background-color:#FFFFFF;
+    align-items: center;
+    text-align: center;
+    margin: 2em 30% 2em 30%;
+    border-radius: 0.3em;
+    box-shadow: #D4D4D4 1px 2px 1px, #D4D4D4 -1px 0px 1px;
+}
+p{
+    text-align: justify;
+    font-size: 86%;
+}
+
+#icone{
+    background-color: #FFFFFF;
+    padding: 3em 0em 3em 0em;
+    margin: 2em 30% 2em 30%;
+    border-radius: 0.3em;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: #D4D4D4 1px 2px 1px, #D4D4D4 -1px 0px 1px;
+}
+i{
+    font-size: 1.6em;
+color: #D4D4D4;
+}
+
+.icone2{
+    color: #D4D4D4;
+    text-decoration: none;
+}
+th{ width: 6em;}
+
+main{
+    background-color: #FFFFFF;
+    margin: 2em 30% 2em 30%;
+    border-radius: 0.3em;
+    box-shadow: #D4D4D4 1px 2px 1px, #D4D4D4 -1px 0px 1px;
+    padding: 1em 0em 0.2em 0em;
+}
+
+body{
+    color: #7D7D7D;
+    background-color: #EBEBEB;
+    margin: 0;
+    font-family:Open Sans;
+    line-height: 1.5em;
+}
+.f1{
+    margin: 3em;
+}
+.img{
+    float: left;
+    height: 8em;
+    width: 5em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
