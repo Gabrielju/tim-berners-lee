@@ -6,8 +6,8 @@ En gise de dernière exercice du parcour html-css dans the Fild.
 via le language html-css, logiciel utiliser Visual Studio Code.
 ## qui
 Gabriel Julien compte ghithub: https://github.com/Gabrielju
-##Lien
-Lien [Tim-berners-lee](https://gabrielju.github.io/tim-berners-lee/)
+## Lien
+[Tim-berners-lee](https://gabrielju.github.io/tim-berners-lee/)
 
 ## Difficultés
 
