@@ -8,6 +8,8 @@ via le language html-css, logiciel utiliser Visual Studio Code.
 Gabriel Julien compte ghithub: https://github.com/Gabrielju
 ## Difficultés
 
+Lien [Tim-berners-lee](https://gabrielju.github.io/tim-berners-lee/)
+
 l'alignement des icone et des lien twitter ,facebook ,linkedin que j'ai commancer comme une liste a puce  puie me suis tourner vers un tableau pour les alignier.
 
 randre l'immage de Tim ronde via border radius elle était oval j'ai donc réduit sa taille.
