@@ -6,9 +6,10 @@ En gise de dernière exercice du parcour html-css dans the Fild.
 via le language html-css, logiciel utiliser Visual Studio Code.
 ## qui
 Gabriel Julien compte ghithub: https://github.com/Gabrielju
-## Difficultés
-
+##Lien
 Lien [Tim-berners-lee](https://gabrielju.github.io/tim-berners-lee/)
+
+## Difficultés
 
 l'alignement des icone et des lien twitter ,facebook ,linkedin que j'ai commancer comme une liste a puce  puie me suis tourner vers un tableau pour les alignier.
 
